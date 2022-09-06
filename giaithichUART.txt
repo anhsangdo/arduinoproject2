@@ -1,0 +1,15 @@
+A#B#C#D#E#F#G#H#I#K#L#M#N#@
+0 A = SO CHIM
+1 B KIEM TRA CHE DO TAY (NEU CHE DO TAY = @)
+2 C setTemperatureMin
+3 D setTemperatureMAX
+4 E sethumidityMin
+5 F sethumidityMAX
+6 G speakerStatus
+7 H doorStatus
+8 I waterPumpStatus
+9 K heaterStatus
+10 L fanStatus
+11 M setTimeTurnOnSpeaker
+12 N setTimeTurnOffSpeaker
+

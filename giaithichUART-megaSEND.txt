@@ -1,0 +1,9 @@
+A$B$C$D$E$F$G@
+1$0$1$1$1$0$1@
+0 A doorStatus
+1 B speakerStatus
+2 C temperature
+3 D humidity
+4 E waterPumpStatus
+5 F heaterStatus
+6 G fanStatus
